@@ -14,7 +14,7 @@ contentTypeName = "posts"
 themeColor = "blue"
 
 # if you set this to 0, only submenu trigger will be visible
-showMenuItems = 2
+showMenuItems = 4
 
 # show selector to switch language
 showLanguageSelector = true
@@ -61,7 +61,7 @@ title = "karimi.dev"
 subtitle = "My blog goes here; enjoy reading my posts"
 owner = "mhkarimi1383"
 keywords = "linux, kubernetes, opensource, raspberry pi, devops, arm, docker, containers, ansible, as a service"
-copyright = "© 2022 karimi.dev by mhkarimi1383"
+copyright = "© 2023 karimi.dev by mhkarimi1383"
 menuMore = "Show more"
 readMore = "Read more"
 readOtherPosts = "Read other posts"
