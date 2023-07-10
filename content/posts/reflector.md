@@ -40,7 +40,7 @@ Also if you want to customize helm values checkout [here](https://github.com/mhk
 
 ## Working with Reflector
 
-We have to ways of using reflector
+We have two ways of using reflector
 
 ### Using CRD
 
