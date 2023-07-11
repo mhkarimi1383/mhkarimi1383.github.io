@@ -14,7 +14,7 @@ or some shared web server plugins) to handle that we have to use a Reflector in 
 two problems with that, first you need a source resource to annotate or label but sometimes you are creating resources yourself and
 there is no need to have an extra namespace for starting point, So I made a K8s Operator that is able to handle both ;)
 
-Before getting started, If you found the project useful don't forget to give it a start [here](https://github.com/mhkarimi1383/reflector)
+Before getting started, If you found the project useful don't forget to give it a star ⭐ [here](https://github.com/mhkarimi1383/reflector)
 
 ## Installing Reflector
 
