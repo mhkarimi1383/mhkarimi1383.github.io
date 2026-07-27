@@ -1,5 +1,5 @@
 baseURL = 'https://karimi.dev/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'karimi.dev'
 theme = 'terminal'
 googleAnalytics = "G-P8NYL41J1B"
@@ -8,9 +8,9 @@ paginate = 5
 
 [languages]
     [languages.en]
-        languageName = "English"
+        label = "English"
         title = "karimi.dev"
-        copyright = "© 2023 karimi.dev by mhkarimi1383"
+        copyright = "© 2026 karimi.dev by mhkarimi1383"
 
     [languages.en.params]
         subtitle = "My blog goes here; enjoy reading my posts"
